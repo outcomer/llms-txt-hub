@@ -3195,6 +3195,25 @@
     "publishedAt": "2025-08-26"
   },
   {
+    "name": "Crypto APIs",
+    "domain": "https://cryptoapis.io",
+    "description": "Blockchain infrastructure suite — unified APIs for blockchain data, transactions, wallets, events, AML screening, and market data across 20+ chains.",
+    "llmsTxtUrl": "https://cryptoapis.io/llms.txt",
+    "category": "developer-tools",
+    "favicon": "https://www.google.com/s2/favicons?domain=cryptoapis.io&sz=128",
+    "publishedAt": "2026-05-20"
+  },
+  {
+    "name": "Crypto APIs Developers",
+    "domain": "https://developers.cryptoapis.io",
+    "description": "Developer reference for the Crypto APIs blockchain platform — endpoint inventory, FAQ-style worked examples, MCP server pointer, and explicit guardrails directing AI agents to the current API surface.",
+    "llmsTxtUrl": "https://developers.cryptoapis.io/llms.txt",
+    "llmsFullTxtUrl": "https://developers.cryptoapis.io/llms-full.txt",
+    "category": "developer-tools",
+    "favicon": "https://www.google.com/s2/favicons?domain=developers.cryptoapis.io&sz=128",
+    "publishedAt": "2026-06-01"
+  },
+  {
     "name": "Crypto Prices, Charts and Cryptocurrency Market Cap",
     "domain": "https://coincodex.com/",
     "description": "Live cryptocurrency prices and charts of top cryptocurrencies by crypto market cap. Complete cryptocurrency market overview including Bitcoin and 47398 altcoins.",
@@ -5822,6 +5841,15 @@
     "publishedAt": "2025-08-26"
   },
   {
+    "name": "InfiniVerde Ltd",
+    "domain": "https://infiniverde.com",
+    "description": "Closed-source quantitative research across 30+ UK and European built environment markets.",
+    "llmsTxtUrl": "https://infiniverde.com/llms.txt",
+    "category": "data-analytics",
+    "favicon": "https://www.google.com/s2/favicons?domain=infiniverde.com&sz=128",
+    "publishedAt": "2026-04-28"
+  },
+  {
     "name": "Infisical",
     "domain": "https://infisical.com",
     "description": "Secure secrets management platform",
@@ -7016,6 +7044,15 @@
     "category": "ai-ml",
     "favicon": "https://www.google.com/s2/favicons?domain=www.llms-text.com&sz=128",
     "publishedAt": "2026-05-31"
+  },
+  {
+    "name": "LLMs.txt Generator",
+    "domain": "https://llmstxtgenerator.svcpool.com",
+    "description": "AI-powered service that automatically crawls your website, clusters pages by semantic similarity, and generates a hierarchical llms.txt file optimized for LLMs. Supports multiple AI models, no registration required for the free tier.",
+    "llmsTxtUrl": "https://llmstxtgenerator.svcpool.com/llms.txt",
+    "category": "developer-tools",
+    "favicon": "https://www.google.com/s2/favicons?domain=llmstxtgenerator.svcpool.com&sz=128",
+    "publishedAt": "2026-06-01"
   },
   {
     "name": "llmshub.de",
@@ -8535,6 +8572,16 @@
     "category": "ai-ml",
     "favicon": "https://www.google.com/s2/favicons?domain=agentskills.io&sz=128",
     "publishedAt": "2026-03-11"
+  },
+  {
+    "name": "Ownkube",
+    "domain": "https://ownkube.io",
+    "description": "A Heroku in your cloud. The developer experience you love, running on your own AWS or GCP account, with AI-powered operations from day one.",
+    "llmsTxtUrl": "https://ownkube.io/llms.txt",
+    "llmsFullTxtUrl": "https://ownkube.io/llms-full.txt",
+    "category": "infrastructure-cloud",
+    "favicon": "https://www.google.com/s2/favicons?domain=ownkube.io&sz=128",
+    "publishedAt": "2026-04-25"
   },
   {
     "name": "Oxla",
